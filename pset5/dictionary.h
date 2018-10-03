@@ -2,7 +2,7 @@
 *
 *
 CS-50-problem set5
-*
+*// this is a haedaer file
 *
 Creating a dictionary header file */
 
